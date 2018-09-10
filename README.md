@@ -1,2 +1,2 @@
 # phase-picker
-A private repository for deep learning & picking algorithms. 
+A public repo for developing deep learning & picking algorithms. 
